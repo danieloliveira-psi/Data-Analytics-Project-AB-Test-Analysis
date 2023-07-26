@@ -7,7 +7,7 @@ For this project, I had to complete the tasks that were requested in the noteboo
 
 ## Main Goal
 
-This project aims at performing a A/B test regarding a hypotetic webpage, comparing an update of the page to the previous version.
+This project aims at performing a A/B test regarding a hypothetical webpage, comparing an update of the page to the previous version.
 
 ## What was used
 
